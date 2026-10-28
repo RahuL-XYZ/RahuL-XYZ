@@ -62,7 +62,6 @@ I build cross-platform mobile apps with Flutter. I care about code that stays re
 </details>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
-## Featured missions
 
 ## Featured missions
 
@@ -71,7 +70,6 @@ I build cross-platform mobile apps with Flutter. I care about code that stays re
 <a href="https://github.com/RahuL-XYZ/Kharcha-Paani"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RahuL-XYZ&repo=Kharcha-Paani&bg_color=0A0D24&border_color=2B59FF&title_color=E23636&text_color=E8ECFF&icon_color=2B59FF" alt="Kharcha-Paani"/></a>
 <a href="https://github.com/RahuL-XYZ/rahul-rajput-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RahuL-XYZ&repo=rahul-rajput-portfolio&bg_color=0A0D24&border_color=2B59FF&title_color=E23636&text_color=E8ECFF&icon_color=2B59FF" alt="Rahul Rajput portfolio"/></a>
 
-</div>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
