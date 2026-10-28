@@ -53,11 +53,11 @@ I build cross-platform mobile apps with Flutter. I care about code that stays re
 
 </div>
 
-<details>
+<details open>
 <summary><b>Contribution graph</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahuL-XYZ&bg_color=0A0D24&color=E23636&line=2B59FF&point=FFFFFF&area=true&area_color=2B59FF&hide_border=true" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/E23636/RahuL-XYZ" width="95%" alt="Contribution graph"/>
 </div>
 </details>
 
