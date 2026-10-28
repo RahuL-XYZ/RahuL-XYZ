@@ -55,7 +55,17 @@ Building scalable mobile applications with Flutter and Dart.
 <img src="https://streak-stats.demolab.com?user=RahuL-XYZ&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
+---
 
+## 📈 My 3D GitHub Contributions
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="My 3D GitHub contribution graph"
+    width="100%"
+  />
+</p>
 ---
 
 ## 🚀 Featured Projects
