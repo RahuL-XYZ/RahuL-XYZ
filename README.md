@@ -68,8 +68,8 @@ I build cross-platform mobile apps with Flutter. I care about code that stays re
 <!-- Replace REPO_NAME_1 / REPO_NAME_2 with your real repo names -->
 <div align="center">
 
-<a href="https://github.com/RahuL-XYZ/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RahuL-XYZ&repo=REPO_NAME_1&bg_color=0A0D24&border_color=2B59FF&title_color=E23636&text_color=E8ECFF&icon_color=2B59FF" alt="Project 1"/></a>
-<a href="https://github.com/RahuL-XYZ/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RahuL-XYZ&repo=REPO_NAME_2&bg_color=0A0D24&border_color=2B59FF&title_color=E23636&text_color=E8ECFF&icon_color=2B59FF" alt="Project 2"/></a>
+<a href="https://github.com/RahuL-XYZ/Kharcha-Paani"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RahuL-XYZ&repo=REPO_NAME_1&bg_color=0A0D24&border_color=2B59FF&title_color=E23636&text_color=E8ECFF&icon_color=2B59FF" alt="Project 1"/></a>
+<a href="https://github.com/RahuL-XYZ/rahul-rajput-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RahuL-XYZ&repo=REPO_NAME_2&bg_color=0A0D24&border_color=2B59FF&title_color=E23636&text_color=E8ECFF&icon_color=2B59FF" alt="Project 2"/></a>
 
 </div>
 
