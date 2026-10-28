@@ -1,120 +1,40 @@
+<!-- ========================================= -->
+<!--              ANIMATED HEADER             -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# 👨‍💻 Rahul Rajput
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,50:312E81,100:06B6D4&text=RAHUL%20RAJPUT&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=60&descSize=17&animation=fadeIn" />
 
-### Flutter Developer | Mobile App Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Building+Beautiful+Mobile+Apps;Clean+Architecture+%7C+Riverpod;Turning+Ideas+Into+Reality" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Building+Beautiful+Mobile+Experiences;Clean+Architecture+%7C+Riverpod;Turning+Ideas+Into+Reality" alt="Animated developer introduction" />
 
 <br/>
 
-Building scalable mobile applications with Flutter and Dart.
-
 <a href="https://github.com/RahuL-XYZ">
-  <img src="https://img.shields.io/badge/GitHub-RahuL--XYZ-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-RahuL--XYZ-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://github.com/RahuL-XYZ?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-00D9FF?style=for-the-badge&logo=github" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/Explore-Projects-06B6D4?style=for-the-badge&logo=github" alt="Explore projects"/>
 </a>
 
-</div>
-
----
-
-## 🧑‍🚀 About Me
-
-- 📱 Flutter Developer specializing in cross-platform applications.
-- 🎯 Focused on clean architecture and maintainable code.
-- ⚡ Experienced with Riverpod, Provider, REST APIs and Firebase.
-- 🌱 Exploring React, JavaScript and modern web development.
-- 🚀 Building products that solve real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,postman,react,js,html,css" alt="Technology stack"/>
+<br/><br/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ========================================= -->
+<!--                 ABOUT ME                 -->
+<!-- ========================================= -->
 
-<div align="center">
+## 👨‍💻 About Me
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RahuL-XYZ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahuL-XYZ&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RahuL-XYZ&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
----
-
-## 📈 My 3D GitHub Contributions
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="My 3D GitHub contribution graph"
-    width="100%"
-  />
-</p>
----
-
-## 🚀 Featured Projects
-
-### 📱 Flutter Data Structures
-Interactive Flutter application demonstrating data structures.
-
-[View Repository →](https://github.com/RahuL-XYZ/flutter-ds-app)
-
-### 🚗 Car Dodging Game
-A game project built with Dart.
-
-[View Repository →](https://github.com/RahuL-XYZ/Car-Dodging-Game)
-
-### 📋 Taskora
-A project exploring web development and task management.
-
-[View Repository →](https://github.com/RahuL-XYZ/taskora)
-
-### 💰 Kharcha Paani
-An expense-management project.
-
-[View Repository →](https://github.com/RahuL-XYZ/Kharcha-Paani-Admin)
-
-### 🌐 Developer Portfolio
-My personal portfolio project.
-
-[View Repository →](https://github.com/RahuL-XYZ/rahul-rajput-portfolio)
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/RahuL-XYZ">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<!-- Add your LinkedIn and portfolio links here. -->
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-*Building. Learning. Improving. Repeating.*
-
-</div>
+```text
+Name       : Rahul Rajput
+Role       : Flutter Developer
+Focus      : Cross-platform mobile applications
+Architecture: Clean Architecture, MVVM
+State      : Riverpod, Provider, GetX
+Backend    : Firebase, REST APIs
+Exploring  : React, JavaScript, Three.js
